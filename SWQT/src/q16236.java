@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Solution {
+public class q16236 {
 	
 	static int[][] map;
 //	static int[][] visit;
