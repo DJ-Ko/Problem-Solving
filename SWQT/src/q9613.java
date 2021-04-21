@@ -49,10 +49,10 @@ public class q9613 {
 		
 		while(true){
 			int m = a%b;
-			
-			if(m == 0){
+
+			if (m == 0) {
 				return b;
-			}else if( m== 1){
+			} else if (m == 1) {
 				return 1;
 			}
 			
